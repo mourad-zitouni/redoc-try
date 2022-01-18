@@ -147,10 +147,10 @@ function initCss() {
         display: none;
       }
 
-      .swaggerBox .tryBtn {
+      /*.swaggerBox .tryBtn {
         margin-right: 10px;
         background-color: #fff;
-      }
+      }*/
     </style>
   `)
 }
